@@ -2,7 +2,7 @@
 
 This is my attempt at [Advent of Code 2024](https://adventofcode.com/2024/about).
 
-Also included is a single sample run time for each solution, the time complexity, and the space complexity.
+Also included is a single sample run time for each solution (using the [codetiming](https://github.com/realpython/codetiming) library), the time complexity, and the space complexity.
 
 ## Advent Progress
 
