@@ -9,7 +9,7 @@ def load_reports() -> list[list[int]]:
         ]
 
 
-def is_safe_original(report):
+def is_safe_original(report: list[int]) -> bool:
     differences = [
         report[i + 1] - report[i]
         for i in range(len(report) - 1)
