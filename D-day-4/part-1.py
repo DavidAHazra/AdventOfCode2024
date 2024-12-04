@@ -33,8 +33,8 @@ def main():
         sum(
             all(
                 ((0 <= i + delta_i < h) and (0 <= j + delta_j < w))
-                and board[i + delta_i][j + delta_j] == "MAS"[xmas_index]
-                for xmas_index, (delta_i, delta_j) in enumerate(pattern)
+                and board[i + delta_i][j + delta_j] == "MAS"[pattern_index]
+                for pattern_index, (delta_i, delta_j) in enumerate(pattern)
             )
             for pattern in SEARCH_PATTERNS
         )

@@ -31,8 +31,8 @@ def main():
         and sum(
             all(
                 ((0 <= i + delta_i < h) and (0 <= j + delta_j < w))
-                and board[i + delta_i][j + delta_j] == "MS"[mas_index]
-                for mas_index, (delta_i, delta_j) in enumerate(pattern)
+                and board[i + delta_i][j + delta_j] == "MS"[pattern_index]
+                for pattern_index, (delta_i, delta_j) in enumerate(pattern)
             )
             for pattern in DIAGONAL_PATTERNS
         ) == 2
