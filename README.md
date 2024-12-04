@@ -16,8 +16,8 @@ For the space complexity the reading of the input file is not included, and inst
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/B-day-2/part-2.py) |      0.00995       |    $O(nm^2)$    |     $O(nm)$      |
 |    Day 3     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/C-day-3/part-1.py) |      0.00169       |     $O(n)$      |      $O(n)$      |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/C-day-3/part-2.py) |      0.00183       |     $O(n)$      |      $O(n)$      |
-|    Day 4     |                                                                                         |                    |                 |                  |
-|              |                                                                                         |                    |                 |                  |
+|    Day 4     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/D-day-4/part-1.py) |      0.02613       |     $O(hw)$     |      $O(1)$      |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/D-day-4/part-2.py) |      0.01883       |     $O(hw)$     |      $O(1)$      |
 |    Day 5     |                                                                                         |                    |                 |                  |
 |              |                                                                                         |                    |                 |                  |
 |    Day 6     |                                                                                         |                    |                 |                  |
