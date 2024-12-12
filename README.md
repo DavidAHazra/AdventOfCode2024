@@ -32,8 +32,8 @@ For the space complexity the reading of the input file is not included, and inst
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/J-day-10/part-2.py) |      0.00491       |     $O(h^2w^2)$      |     $O(hw)$      |
 |    Day 11    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/K-day-11/part-1.py) |      0.00215       |      $O(2^kn)$       |      $O(k)$      |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/K-day-11/part-2.py) |      0.08929       |      $O(2^kn)$       |      $O(k)$      |
-|    Day 12    |                                                                                          |                    |                      |                  |
-|              |                                                                                          |                    |                      |                  |
+|    Day 12    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/L-day-12/part-1.py) |      0.02908       |       $O(hw)$        |     $O(hw)$      |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/L-day-12/part-2.py) |      0.04146       |       $O(hw)$        |     $O(hw)$      |
 |    Day 13    |                                                                                          |                    |                      |                  |
 |              |                                                                                          |                    |                      |                  |
 |    Day 14    |                                                                                          |                    |                      |                  |
