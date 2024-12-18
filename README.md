@@ -42,10 +42,10 @@ For the space complexity the reading of the input file is not included, and inst
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/O-day-15/part-2.py) |      0.01871       |       $O(mhw)$       |     $O(hw)$      |
 |    Day 16    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/P-day-16/part-1.py) |      0.05411       |   $O(hw\log(hw))$    |     $O(hw)$      |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/P-day-16/part-2.py) |      9.81786       |   $O(hw\log(hw))$    |     $O(hw)$      |
-|    Day 17    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/Q-day-17/part-2.py) |      0.00075       |        $O(n)$        |      $O(n)$      |
+|    Day 17    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/Q-day-17/part-1.py) |      0.00075       |        $O(n)$        |      $O(n)$      |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/Q-day-17/part-2.py) |      0.00596       |       $O(n^2)$       |      $O(n)$      |
-|    Day 18    |                                                                                          |                    |                      |                  |
-|              |                                                                                          |                    |                      |                  |
+|    Day 18    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/R-day-18/part-1.py) |      0.00885       |       $O(d^2)$       |     $O(d^2)$     |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/R-day-18/part-2.py) |      0.02871       |       $O(nd^2)       |     $(d^2)$      |
 |    Day 19    |                                                                                          |                    |                      |                  |
 |              |                                                                                          |                    |                      |                  |
 |    Day 16    |                                                                                          |                    |                      |                  |
