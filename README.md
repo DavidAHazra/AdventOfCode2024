@@ -46,8 +46,8 @@ For the space complexity the reading of the input file is not included, and inst
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/Q-day-17/part-2.py) |      0.00596       |       $O(n^2)$       |      $O(n)$      |
 |    Day 18    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/R-day-18/part-1.py) |      0.00885       |       $O(d^2)$       |     $O(d^2)$     |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/R-day-18/part-2.py) |      0.02871       |       $O(nd^2)       |     $(d^2)$      |
-|    Day 19    |                                                                                          |                    |                      |                  |
-|              |                                                                                          |                    |                      |                  |
+|    Day 19    | [Part 1](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/S-day-19/part-1.py) |      0.07913       |      $O(DT^d)$       |      $O(d)$      |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2024/blob/master/S-day-19/part-2.py) |      0.55478       |       $O(DTd)$       |      $O(d)$      |
 |    Day 16    |                                                                                          |                    |                      |                  |
 |              |                                                                                          |                    |                      |                  |
 |    Day 21    |                                                                                          |                    |                      |                  |
