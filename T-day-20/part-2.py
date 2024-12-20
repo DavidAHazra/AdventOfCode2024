@@ -71,7 +71,6 @@ def main():
         0 <= pos[0] + di < h and
         0 <= pos[1] + dj < w and
         track[pos[0] + di][pos[1] + dj] != "#" and
-        non_cheating_path[(pos[0] + di, pos[1] + dj)] > non_cheating_path[pos] and
         non_cheating_path[(pos[0] + di, pos[1] + dj)] - non_cheating_path[pos] - cheat_cost >= 100
         for pos in non_cheating_path
         for di, dj, cheat_cost in CHEAT_MOVEMENT
